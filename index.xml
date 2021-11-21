@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://wraivo.github.io/fgAnjeva/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wraivo.github.io/fgAnjeva/index.xml" rel="self" type="application/rss+xml" />
+    <title>Fiangonana Anjeva</title>
+    <link>https://username.github.io/</link>
+    <description>Recent content on Fiangonana Anjeva</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://wraivo.github.io/fgAnjeva/telovolana-i/tel1/</link>
+      <link>https://username.github.io/telov2/tel2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wraivo.github.io/fgAnjeva/telovolana-i/tel1/</guid>
-      <description>TELOVOLANA I : ISAIA : AMPIONONY NY OLOKO
-Lesona 1 : Adinon&amp;rsquo;ny Isiraely ny maha-vahoakan&amp;rsquo;Andriamanitra azy Avia ary hifandahatra isika hoy Jehovah : na dia tahaka ny jaky aza ny fahotanareo dia ho fotsy tahaka ny oram-panala, na dia mangatrakatraka tahaka ny sily aza dia ho tahaka ny volon&amp;rsquo;ondry fotsy Isa 1:18</description>
+      <guid>https://username.github.io/telov2/tel2/</guid>
+      <description>TELOVOLANA II : FANEKENA MANDRAKIZAY Lesona 1 : Fa nisy inona? Ary Andriamanitra nanao hoe: Andeha Isika hamorona olona tahaka ny Endritsika Ary Andriamanitra nahary ny olona tahaka ny endriny; tahaka ny Endrik&amp;rsquo;Andriamanitra no namoronany azy, lahy sy vavy no namoronany azy Gen 1:26,27</description>
+    </item>
+    
+    <item>
+      <title>TELOVOLANA I</title>
+      <link>https://username.github.io/telov1/tel1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://username.github.io/telov1/tel1/</guid>
+      <description>AMPIONONY NY OLOKO Lesona 1 : Adinon&amp;rsquo;ny Isiraely ny maha-vahoakan&amp;rsquo;Andriamanitra azy Avia ary hifandahatra isika hoy Jehovah : na dia tahaka ny jaky aza ny fahotanareo dia ho fotsy tahaka ny oram-panala, na dia mangatrakatraka tahaka ny sily aza dia ho tahaka ny volon&amp;rsquo;ondry fotsy Isa 1:18</description>
     </item>
     
   </channel>
