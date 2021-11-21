@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wraivo.github.io/fgAnjeva/telovolana-i/tel1/</loc>
+  </url><url>
     <loc>https://wraivo.github.io/fgAnjeva/categories/</loc>
   </url><url>
     <loc>https://wraivo.github.io/fgAnjeva/</loc>
   </url><url>
     <loc>https://wraivo.github.io/fgAnjeva/tags/</loc>
+  </url><url>
+    <loc>https://wraivo.github.io/fgAnjeva/telovolana-i/</loc>
   </url>
 </urlset>
